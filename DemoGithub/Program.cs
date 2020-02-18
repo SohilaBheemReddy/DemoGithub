@@ -10,7 +10,9 @@ namespace DemoGithub
     {
         static void Main(string[] args)
         {
+            Class2 C = new Class2();
             Console.WriteLine("Hello");
+
             Console.ReadLine();
         }
     }
